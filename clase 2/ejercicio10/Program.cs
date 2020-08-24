@@ -14,7 +14,7 @@ namespace ejercicio10
             int femenino = 0;
             int Estaciv;
             int salario;
-            int emplea = 5;
+            int emplea = 20;
             int prom = 0;
             int homedad = 0;
             int acomulador = 0;
