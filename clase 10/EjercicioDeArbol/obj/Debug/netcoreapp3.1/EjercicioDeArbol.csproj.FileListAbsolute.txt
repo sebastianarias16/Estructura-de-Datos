@@ -1,0 +1,3 @@
+C:\Estructura de Datos\clase 10\EjercicioDeArbol\obj\Debug\netcoreapp3.1\EjercicioDeArbol.csprojAssemblyReference.cache
+C:\Estructura de Datos\clase 10\EjercicioDeArbol\obj\Debug\netcoreapp3.1\EjercicioDeArbol.AssemblyInfoInputs.cache
+C:\Estructura de Datos\clase 10\EjercicioDeArbol\obj\Debug\netcoreapp3.1\EjercicioDeArbol.AssemblyInfo.cs
